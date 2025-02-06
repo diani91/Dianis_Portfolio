@@ -1,6 +1,5 @@
 # Dianis_Portfolio
-About
-__________________________________________________
+## About
 
 Hi, I'm Diana!
 
@@ -15,23 +14,16 @@ Feel free to check out my CV in PDF format.
 You can also explore my repository, where I showcase my skills, share projects, and track my progress in Data.
 
 
-Portfolio Projects
-____________________________________________________
+## Portfolio Projects
 In here you can find my projects and a brief description of their goal.
 
-Coffee Shop Insights
+### Coffee Shop Insights
 
-Goal: Using data to uncover underlying patterns and trends. This includes analyzing sales volume, customer behavior, product popularity and sales by location. Define Key Performance Indicators (KPIs): We will identify and define a set of KPIs that are crucial for the coffee shop’s success. These might include daily and monthly sales and product sales distribution. Develop a Power Bi Dashboard: To make the insights accessible and actionable. This dashboard will provide data visualizations, allowing for quick and informed decision-making.
-Tools and Tecnology: Power Bi, Excel, Dax.
-Skills: 
+#### Goal: 
+Using data to uncover underlying patterns and trends. This includes analyzing sales volume, customer behavior, product popularity and sales by location. Define Key Performance Indicators (KPIs): We will identify and define a set of KPIs that are crucial for the coffee shop’s success. These might include daily and monthly sales and product sales distribution. Develop a Power Bi Dashboard: To make the insights accessible and actionable. This dashboard will provide data visualizations, allowing for quick and informed decision-making.
 
-Project Approach:
+#### Tools and Technology: 
+Power Bi, Excel, Dax.
 
-Data Collection and Integration
-Gather data, in this case dummy data from Maven Analytics.
-
-Data Cleaning and Transformation
-Using Excel, we’ll clean the data (handling missing values, removing duplicates, standardizing formats to prepare it for analysis. Also, creating calculations in Power Bi using dax.
-
-Exploratory Data Analysis
-Conduct an in-depth EDA to uncover trends and patterns. This step will involve analysis and visualization techniques.
+#### Skills:
+Data cleaning, data analysis, hypothesis testing, data visualization.1
