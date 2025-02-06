@@ -29,7 +29,11 @@ Power Bi, Excel, Dax.
 Data cleaning, data analysis, hypothesis testing, data visualization.
 
 ### Google Sheets Projects
-I had different goals for these projects, mostly helping people with organization and financial goals
-[Habit Tracker]()
-[50/30/20 Budget]()
-[Wardrobe Insights]()
+I had different goals for these projects, mostly helping people with organization and financial goals.
+
+[Habit Tracker](https://docs.google.com/spreadsheets/d/1GkpEHJrtpvXqvuhG7T2nzaW-_T2UZsb9Z4XgjwpTIG8/copy
+)
+
+[50/30/20 Budget](https://docs.google.com/spreadsheets/d/1zVOO_S5bRAFMiZ-vlmLl2FAM16KmsiNsw_an_t0aPeY/copy)
+
+[Wardrobe Insights](https://docs.google.com/spreadsheets/d/11fhExJn7zZNffj1xboXRbiWy8N6SxC-jdyIdLAVBFJM/copy)
