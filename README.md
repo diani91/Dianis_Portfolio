@@ -9,7 +9,7 @@ I hold an MBA in Business Intelligence and have taken the initiative to teach my
 
 In my free time, I love exploring new coffee shops, baking, and exploring new data visualization techniques and tools, constantly seeking opportunities to expand my knowledge and skills. Whether collaborating with a team or working independently, I am driven by the excitement of uncovering insights from data and the satisfaction of creating organized, effective solutions.
 
-Feel free to check out my CV in PDF format.
+Feel free to check out my [CV](https://github.com/diani91/Dianis_Portfolio/blob/main/Diana_Perez_CV.pdf) in PDF format.
 
 You can also explore my repository, where I showcase my skills, share projects, and track my progress in Data.
 
@@ -26,4 +26,10 @@ Using data to uncover underlying patterns and trends. This includes analyzing sa
 Power Bi, Excel, Dax.
 
 #### Skills:
-Data cleaning, data analysis, hypothesis testing, data visualization.1
+Data cleaning, data analysis, hypothesis testing, data visualization.
+
+### Google Sheets Projects
+I had different goals for these projects, mostly helping people with organization and financial goals
+[Habit Tracker]()
+[50/30/20 Budget]()
+[Wardrobe Insights]()
