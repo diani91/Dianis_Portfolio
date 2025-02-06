@@ -17,7 +17,7 @@ You can also explore my repository, where I showcase my skills, share projects, 
 ## Portfolio Projects
 In here you can find my projects and a brief description of their goal.
 
-### Coffee Shop Insights
+### Coffee Shop Insights [Project](https://github.com/diani91/Data-Projects-Collection/tree/main/Coffee%20Shop%20Insights%20Project)
 
 #### Goal: 
 Using data to uncover underlying patterns and trends. This includes analyzing sales volume, customer behavior, product popularity and sales by location. Define Key Performance Indicators (KPIs): We will identify and define a set of KPIs that are crucial for the coffee shop’s success. These might include daily and monthly sales and product sales distribution. Develop a Power Bi Dashboard: To make the insights accessible and actionable. This dashboard will provide data visualizations, allowing for quick and informed decision-making.
